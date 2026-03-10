@@ -82,7 +82,7 @@ const Work = () => {
 
   /* Function to move to a specific slide */
   const goToSlide = useCallback(
-    (index) => {
+    (index: number) => {
       if (isAnimating) return; // stop if animation running
       setIsAnimating(true); // start animation
       setCurrentIndex(index); // update slide
