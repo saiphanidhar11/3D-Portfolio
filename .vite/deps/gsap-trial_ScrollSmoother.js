@@ -1,6 +1,6 @@
 import "./chunk-DC5AMYBS.js";
 
-// node_modules/gsap-trial/ScrollSmoother.js
+// node_modules/gsap/ScrollSmoother.js
 var e;
 var t;
 var r;
@@ -218,7 +218,7 @@ export {
 };
 /*! Bundled license information:
 
-gsap-trial/ScrollSmoother.js:
+gsap/ScrollSmoother.js:
   (*!
    * ScrollSmoother 3.12.7
    * https://gsap.com
@@ -231,4 +231,4 @@ gsap-trial/ScrollSmoother.js:
    * @author: Jack Doyle, jack@greensock.com
    *)
 */
-//# sourceMappingURL=gsap-trial_ScrollSmoother.js.map
+//# sourceMappingURL=gsap_ScrollSmoother.js.map

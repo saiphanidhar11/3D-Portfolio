@@ -46,9 +46,9 @@
       "fileHash": "4da875f3",
       "needsInterop": false
     },
-    "gsap-trial/ScrollSmoother": {
-      "src": "../../node_modules/gsap-trial/ScrollSmoother.js",
-      "file": "gsap-trial_ScrollSmoother.js",
+    "gsap/ScrollSmoother": {
+      "src": "../../node_modules/gsap/ScrollSmoother.js",
+      "file": "gsap_ScrollSmoother.js",
       "fileHash": "b68ac523",
       "needsInterop": false
     },
@@ -64,9 +64,9 @@
       "fileHash": "6e69639b",
       "needsInterop": false
     },
-    "gsap-trial/SplitText": {
-      "src": "../../node_modules/gsap-trial/SplitText.js",
-      "file": "gsap-trial_SplitText.js",
+    "gsap/SplitText": {
+      "src": "../../node_modules/gsap/SplitText.js",
+      "file": "gsap_SplitText.js",
       "fileHash": "0c8eb039",
       "needsInterop": false
     },
