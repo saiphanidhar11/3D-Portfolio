@@ -90,8 +90,9 @@ const WhatIDo = () => {
               <h3>FRONTEND</h3>
               <h4>Building Interactive UIs</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Built responsive user interfaces using modern web technologies, 
+                focusing on usability and seamless integration with backend APIs 
+                to improve user experience and productivity.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -100,7 +101,6 @@ const WhatIDo = () => {
                 <div className="what-tags">Next.js</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
                 <div className="what-tags">HTML5</div>
                 <div className="what-tags">CSS3</div>
               </div>
@@ -129,15 +129,16 @@ const WhatIDo = () => {
               <h3>BACKEND</h3>
               <h4>Scalable Server Architecture</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Developed scalable backend services using Java, Spring Boot, 
+                and microservices architecture, building secure REST APIs and 
+                optimizing system performance. Worked with databases, logging systems, 
+                and CI/CD pipelines to ensure reliable and high-performance applications.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">Java</div>
+                <div className="what-tags">Spring Boot</div>
+                <div className="what-tags">SQL</div>
                 <div className="what-tags">PostgreSQL</div>
                 <div className="what-tags">REST APIs</div>
                 <div className="what-tags">Microservices</div>
