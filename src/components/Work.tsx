@@ -6,71 +6,23 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 /* Array containing only images for slideshow */
 const projects = [
   {
+    image: "/images/AI.jpeg",
+  },
+  {
     image: "/images/Photo1.jpeg",
   },
   {
     image: "/images/Photo2.jpeg",
   },
   {
-    image: "/images/Photo3.jpeg",
+    image: "/images/HMS1.jpeg",
   },
   {
-    image: "/images/photo4.jpg",
+    image: "/images/HMS2.jpeg",
   },
   {
-    image: "/images/photo5.jpg",
+    image: "/images/IPS.jpeg",
   },
-  {
-    image: "/images/photo6.jpg",
-  },
-  {
-    image: "/images/photo7.jpg",
-  },
-  {
-    image: "/images/photo8.jpg",
-  },
-  {
-    image: "/images/photo9.jpg",
-  },
-  {
-    image: "/images/photo10.jpg",
-  },
-  {
-    image: "/images/photo11.jpg",
-  },
-  {
-    image: "/images/photo12.jpg",
-  },
-  {
-  image: "/images/photo13.jpg",
-  },
-  {
-  image: "/images/Photo14.jpg",
-},
-{
-  image: "/images/photo15.jpg",
-},
-{
-  image: "/images/photo16.jpg",
-},
-{
-  image: "/images/photo17.jpg",
-},
-{
-  image: "/images/photo18.jpg",
-},
-{
-  image: "/images/photo19.jpg",
-},
-{
-  image: "/images/photo20.jpg",
-},
-{
-  image: "/images/photo21.jpg",
-},
-{
-  image: "/images/photo22.jpg",
-},
 ];
 
 const Work = () => {
@@ -109,7 +61,7 @@ const Work = () => {
     <div className="work-section" id="work">
       <div className="work-container section-container">
         <h2>
-          My Photography <span>Work</span>
+          My <span>Projects</span>
         </h2>
 
         <div className="carousel-wrapper">
